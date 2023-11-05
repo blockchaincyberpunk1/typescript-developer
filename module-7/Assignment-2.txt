@@ -1,0 +1,66 @@
+Event Handling in TypeScript
+Objective: To demonstrate how TypeScript handles events and interactions in a web application.
+
+Task: In this assignment, you will assign students a project that involves handling user interactions. For instance, they can create a small web-based calculator using TypeScript. Students should implement event listeners, handle user input, perform calculations, and display results on the web page. They should submit the TypeScript code and a report detailing their implementation and any challenges faced.
+
+Instructions:
+
+Part 1: Project Description
+
+Scenario:
+
+Your goal is to create a small web-based application that showcases your understanding of event handling in TypeScript. You will build a calculator that allows users to perform basic mathematical operations.
+
+Your Task:
+
+You will create a web-based calculator using TypeScript, HTML, and CSS. The calculator should be able to perform addition, subtraction, multiplication, and division operations. Users should be able to input numbers and perform calculations by clicking on the calculator buttons.
+
+Part 2: TypeScript Implementation
+
+Use TypeScript to implement the calculator's functionality:
+
+Create a TypeScript file for your calculator.
+
+Implement event listeners to capture user interactions with the calculator buttons.
+
+Handle user input, including numbers and arithmetic operators.
+
+Perform calculations based on user input.
+
+Display the results on the web page in a user-friendly manner.
+
+Ensure that your TypeScript code is well-organized and follows best practices for event handling and code structure.
+
+Part 3: Report
+
+Create a report that details your implementation:
+
+Explain how you used TypeScript to handle events and interactions within your calculator.
+
+Describe the structure of your TypeScript code and how you organized event listeners.
+
+Discuss any challenges you encountered during development and how you overcame them.
+
+Part 4: Submission
+
+Submit the following:
+
+a. The TypeScript code containing your implementation of the calculator.
+
+b. A working HTML file that includes your TypeScript code and allows the calculator to be run in a web browser.
+
+c. The report, which should be in a document format (e.g., PDF, Word), explaining your implementation and challenges.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of the calculator's functionality, including event handling, user input, calculations, and result display.
+
+Effective use of TypeScript to handle events and interactions in the web-based calculator.
+
+Clarity and completeness of the report, including explanations of the approach taken, code structure, and challenges faced.
+
+Proper organization and structure of the TypeScript code and HTML file.
+
+Overall correctness and completeness of the assignment.

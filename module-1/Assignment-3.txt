@@ -1,0 +1,44 @@
+JavaScript Objects and Arrays
+Objective: To reinforce the understanding of JavaScript objects and arrays.
+
+Task: In this assignment, you will apply your knowledge of JavaScript objects and arrays to model real-world scenarios. You will be provided with a set of scenarios, and your task is to create JavaScript objects and arrays to represent these scenarios. Properly structuring objects and arrays is crucial for effective data modeling.
+
+Instructions:
+
+Create a JavaScript file named assignment3.js for your solutions.
+
+In assignment3.js, define JavaScript objects and arrays to model the following real-world scenarios:
+
+a. Scenario 1: Library with Books and Authors
+
+Imagine you are building a library management system. Create JavaScript objects and arrays to represent a library with books and authors. Each book should have properties like title, author, publicationYear, and ISBN. Each author should have properties like name, birthYear, and nationality. Use nested objects and arrays as needed.
+
+b. Scenario 2: Shopping Cart
+
+You are developing an e-commerce website. Create JavaScript objects and arrays to model a shopping cart. Each item in the cart should have properties like productName, price, and quantity. Use an array to represent the cart and store multiple items.
+
+c. Scenario 3: Student Records
+
+You are building a student information system. Create JavaScript objects and arrays to represent student records. Each student record should include properties like name, age, grade, and an array of courses they are enrolled in.
+
+Ensure that your code is well-organized, follows best practices, and includes comments where necessary to explain the structure of your objects and arrays.
+
+Submission Guidelines:
+
+Ensure that your JavaScript code is correctly organized and commented.
+
+Zip your assignment3.js file along with any necessary documentation if needed.
+
+Submit the zip file through the course assignment submission portal.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness of the object and array definitions to represent the specified real-world scenarios.
+
+Clarity of code with well-written comments explaining the structure of objects and arrays.
+
+Proper organization of code and adherence to best practices in JavaScript coding.
+
+Overall correctness and completeness of the assignment.

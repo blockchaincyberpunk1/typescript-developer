@@ -1,0 +1,68 @@
+Integrating TypeScript with a Front-End Framework (Angular, React, or Vue.js)
+Objective: To showcase TypeScript's compatibility with popular front-end frameworks.
+
+Task: In this assignment, you will allow students to choose one of the popular front-end frameworks, such as Angular, React, or Vue.js. Provide a starter template for their chosen framework and instruct them to build a simple application. For example, students can create a task management app with Angular, a user interface with React, or a real-time chat app with Vue.js, all using TypeScript. They should submit the TypeScript code, the framework-based project, and a brief report highlighting TypeScript's benefits in their chosen framework.
+
+Instructions:
+
+Part 1: Framework Selection
+
+Scenario:
+
+You are tasked with integrating TypeScript into a popular front-end framework to build a web application. You have the freedom to choose one of the following frameworks: Angular, React, or Vue.js.
+
+Your Task:
+
+Select one of the provided front-end frameworks (Angular, React, or Vue.js) that you are comfortable working with.
+
+Part 2: Project Implementation
+
+Use TypeScript to build a simple web application using your chosen front-end framework. The application should demonstrate the following:
+
+Angular: Create a task management application where users can add, delete, and mark tasks as completed.
+
+React: Build a user interface that allows users to search and filter a list of items (e.g., products, movies, or books).
+
+Vue.js: Develop a real-time chat application where users can send and receive messages in a chat room.
+
+Implement the core functionality of your chosen project using TypeScript:
+
+Ensure that TypeScript is integrated seamlessly with the chosen framework.
+
+Use TypeScript features, including type annotations, interfaces, and classes, to enhance the code quality.
+
+Showcase TypeScript's benefits, such as static typing and code readability, within your project.
+
+Part 3: Report
+
+Create a brief report that highlights TypeScript's benefits in your chosen front-end framework:
+
+Explain how TypeScript improved the development process and code quality in your project.
+
+Discuss any challenges you faced while integrating TypeScript with the chosen framework and how you addressed them.
+
+Part 4: Submission
+
+Submit the following:
+
+a. The TypeScript code containing your implementation of the web application using the chosen front-end framework.
+
+b. The complete project of your web application, including all framework-specific files and configurations.
+
+c. The report, which should be in a document format (e.g., PDF, Word), highlighting TypeScript's benefits and challenges in your project.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful integration of TypeScript with the chosen front-end framework.
+
+Correct implementation of the web application's core functionality.
+
+Effective use of TypeScript features, including type annotations, interfaces, and classes, to enhance code quality.
+
+Clarity and completeness of the report, including explanations of TypeScript's benefits and any challenges faced during integration.
+
+Proper organization and structure of the TypeScript code and the chosen framework's project.
+
+Overall correctness and completeness of the assignment.

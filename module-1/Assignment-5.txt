@@ -1,0 +1,85 @@
+JavaScript and TypeScript Quiz
+Objective: To evaluate students' knowledge of JavaScript and TypeScript concepts covered in the module.
+
+Task: In this assignment, you will take a quiz that includes multiple-choice questions and coding challenges related to JavaScript and TypeScript basics. The quiz is designed to test your understanding of variables, data types, functions, and TypeScript type annotations. You should complete the quiz and submit your answers.
+
+Instructions:
+
+Answer the following multiple-choice questions:
+
+a. What is the keyword used to declare a variable in JavaScript that cannot be reassigned?
+
+i. let
+
+ii. const
+
+iii. var
+
+iv. readonly
+
+b. Which data type represents a collection of key-value pairs in JavaScript?
+
+i. Array
+
+ii. Object
+
+iii. String
+
+iv. Number
+
+c. In TypeScript, how do you define the type of a variable?
+
+i. Using the type keyword
+
+ii. Using the interface keyword
+
+iii. Using the var keyword
+
+iv. TypeScript does not require type declarations
+
+d. Which of the following is NOT a valid way to define a function in JavaScript?
+
+i. Function declaration
+
+ii. Function expression
+
+iii. Arrow function
+
+iv. Class declaration
+
+Answer the following coding challenges:
+
+a. Write a JavaScript function that takes two numbers as parameters and returns their sum.
+
+b. Convert the following JavaScript code into TypeScript, adding type annotations as needed:
+
+javascript
+Copy code
+function greet(name) {
+    return "Hello, " + name + "!";
+}
+const result = greet("Alice");
+console.log(result);
+c. Write a TypeScript function that takes an array of numbers as a parameter and returns the sum of all the numbers in the array.
+
+Submission Guidelines:
+
+Create a file named assignment5_answers.txt.
+
+In assignment5_answers.txt, write your answers to the multiple-choice questions (indicate the letter corresponding to your choice) and include your code for the coding challenges.
+
+Zip the assignment5_answers.txt file.
+
+Submit the zip file through the course assignment submission portal.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Accuracy of your answers to the multiple-choice questions.
+
+Correctness and clarity of your code for the coding challenges.
+
+Proper use of TypeScript type annotations where required.
+
+Overall correctness and completeness of the assignment.

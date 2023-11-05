@@ -1,0 +1,73 @@
+Engagement with TypeScript Community
+Objective: To encourage community engagement and staying updated with TypeScript developments.
+
+Task: In this assignment, students will actively engage with the TypeScript community by participating in online forums, contributing to open-source TypeScript projects, or attending TypeScript-related events or meetups. They should write a reflective report about their experiences, highlighting valuable insights gained and sharing any contributions made.
+
+Instructions:
+
+Part 1: Project Description
+
+Scenario:
+
+As TypeScript developers, it's important to stay connected with the TypeScript community, learn from others, and contribute to the growth of the ecosystem. This assignment aims to encourage community engagement and help you stay updated with TypeScript developments.
+
+Your Task:
+
+Your task is to actively engage with the TypeScript community by participating in one or more of the following activities:
+
+a. Participate in Online Forums:
+
+Join TypeScript-related online forums or discussion platforms (e.g., Stack Overflow, TypeScript Community Forum).
+Answer questions related to TypeScript and assist fellow developers with their challenges.
+Ask questions and seek help when needed.
+b. Contribute to Open-Source TypeScript Projects:
+
+Identify open-source TypeScript projects on platforms like GitHub.
+Contribute to an existing TypeScript project by submitting bug fixes, enhancements, or documentation improvements.
+Collaborate with maintainers and other contributors to improve TypeScript projects.
+c. Attend TypeScript-Related Events or Meetups:
+
+Find TypeScript-related events, webinars, or meetups (online or in-person) in your region.
+Attend these events and actively participate in discussions.
+Share your experiences and takeaways from the events.
+Part 2: Project Implementation
+
+Actively engage with the TypeScript community based on your chosen activity or activities. Dedicate a reasonable amount of time to these activities during the assignment duration.
+
+Keep a journal or record of your interactions, contributions, and experiences. Note down any challenges you faced and how you overcame them.
+
+Part 3: Reflective Report
+
+Write a reflective report about your experiences and insights gained from engaging with the TypeScript community. Your report should include:
+
+An overview of the community activities you participated in (online forums, open-source contributions, events/meetups).
+
+Detailed insights or learnings you gained from these activities. What valuable information did you come across?
+
+Any contributions you made to open-source projects, including links to your contributions on platforms like GitHub.
+
+Challenges you encountered during your community engagement and how you tackled them.
+
+How your experiences have contributed to your growth as a TypeScript developer.
+
+Part 4: Submission
+
+Submit the following:
+
+a. Your reflective report, which should be in a document format (e.g., PDF, Word).
+
+b. Any links or evidence of your contributions to open-source TypeScript projects (if applicable).
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Active and meaningful engagement with the TypeScript community, as evidenced by your report.
+
+Insights and learnings gained from your community engagement.
+
+Contributions made to open-source TypeScript projects (if applicable).
+
+Clarity and completeness of the reflective report, including detailed explanations of your experiences and contributions.
+
+Overall reflection on how community engagement has contributed to your growth as a TypeScript developer.

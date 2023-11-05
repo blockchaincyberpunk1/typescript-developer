@@ -1,0 +1,50 @@
+Introduction to TypeScript
+Objective: To introduce students to TypeScript and its benefits.
+
+Task: In this assignment, you will gain hands-on experience with TypeScript by rewriting existing JavaScript functions or code snippets into TypeScript. TypeScript brings static typing to JavaScript, enhancing code quality and reducing errors. Your task is to add type annotations to variables and function parameters in the provided JavaScript code, ensuring type safety. You should submit both the original JavaScript and the TypeScript versions of the code.
+
+Instructions:
+
+Create a JavaScript file named assignment4.js for the original JavaScript code.
+
+In the assignment4.js file, write the following JavaScript functions or code snippets:
+
+a. Function 1: Calculate Circle Area
+
+Write a JavaScript function named calculateCircleArea that takes the radius of a circle as a parameter and returns its area. The radius should be a number.
+
+b. Function 2: Sort Numbers
+
+Write a JavaScript function named sortNumbers that takes an array of numbers and returns a sorted array. Ensure that the parameter numbers is an array of numbers.
+
+c. Code Snippet: User Information
+
+Write JavaScript code that declares a user object with properties like name, age, and email. Ensure that you specify the types for these properties.
+
+Create a TypeScript file named assignment4.ts.
+
+In the assignment4.ts file, rewrite the JavaScript functions and code snippets from assignment4.js in TypeScript. Add type annotations to variables and function parameters to ensure type safety.
+
+Ensure that your TypeScript code is well-organized and follows best practices.
+
+Submission Guidelines:
+
+Submit two files: assignment4.js containing the original JavaScript code and assignment4.ts containing the TypeScript code.
+
+Zip both files along with any necessary documentation if needed.
+
+Submit the zip file through the course assignment submission portal.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness of the TypeScript code, including type annotations for variables and function parameters.
+
+Successful conversion of the provided JavaScript functions and code snippets to TypeScript.
+
+Clarity of code with well-written comments where necessary.
+
+Proper organization of code and adherence to best practices in TypeScript coding.
+
+Overall correctness and completeness of the assignment.

@@ -1,0 +1,66 @@
+Debugging TypeScript with Extensions
+Objective: To extend students' knowledge of debugging TypeScript by introducing browser extensions.
+
+Task: In this assignment, you will introduce students to browser extensions such as Augury for Angular or Redux DevTools for React, based on the technologies they are familiar with. You will provide a TypeScript project using the corresponding technology stack. Instruct students to install and use the relevant browser extension to debug and analyze the application's state and behavior. They should submit their corrected code and a report that includes their experience with the extension and how it helped in debugging.
+
+Instructions:
+
+Part 1: Debugging Scenario
+
+Scenario:
+
+You are given a TypeScript project built with a specific technology stack, such as Angular or React. The project contains known bugs or issues that affect its functionality. Your task is to debug the application using a browser extension designed for that technology.
+
+Your Task:
+
+Familiarize yourself with the provided TypeScript project, including its technology stack, functionality, and any apparent issues or bugs.
+
+Part 2: Introducing Browser Extension
+
+Introduce students to a browser extension that is relevant to the technology stack used in the project. For example, if the project is based on Angular, you can introduce Augury, and if it's based on React with Redux, you can introduce Redux DevTools.
+
+Provide information on how to install the browser extension in the preferred web browser (e.g., Chrome, Firefox).
+
+Explain the key features of the extension and how it helps in debugging applications built with the specified technology.
+
+Part 3: Debugging with the Extension
+
+Instruct students to install the introduced browser extension and configure it to work with the TypeScript project.
+
+Demonstrate how to use the extension to inspect and debug the code, analyze the application's state, and identify problems.
+Provide a detailed step-by-step debugging process:
+
+Describe the steps you took to identify and fix the problems using the browser extension.
+
+Explain how you utilized the extension's features to isolate issues within the code.
+
+Include screenshots or descriptions of relevant parts of the extension's user interface.
+
+Describe how the extension helped in understanding and resolving the issues.
+
+Part 4: Correct the Issues
+
+Once you have identified the problems, fix the bugs or issues within the TypeScript code.
+
+Ensure that your corrections are logically sound and address the root causes of the problems.
+Part 5: Submission
+
+Submit the following:
+
+a. A detailed report of your debugging process, including step-by-step instructions and any screenshots or descriptions of relevant parts of the browser extension's user interface.
+
+b. The corrected TypeScript code with the issues fixed.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct identification of the bugs or issues within the TypeScript project.
+
+Effective use of the introduced browser extension for debugging, including the use of features to analyze the application's state and behavior.
+
+Clarity and completeness of the debugging process report, including step-by-step instructions, descriptions of debugging actions, and relevant screenshots.
+
+Proper correction of the issues within the TypeScript code, ensuring that the root causes of the problems are addressed.
+
+Overall correctness and completeness of the assignment.

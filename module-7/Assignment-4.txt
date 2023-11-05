@@ -1,0 +1,64 @@
+Advanced Front-End Development with TypeScript
+Objective: To challenge students with a more complex front-end development task using TypeScript.
+
+Task: In this assignment, you will assign students a task that requires advanced front-end development skills. For instance, they can build a responsive e-commerce website with product listings, a shopping cart, and user authentication using TypeScript. Students should demonstrate their understanding of TypeScript's role in managing state, handling complex user interfaces, and integrating with back-end services if applicable. They should submit the TypeScript code, HTML/CSS files, and a detailed report describing their implementation and design decisions.
+
+Instructions:
+
+Part 1: Project Description
+
+Scenario:
+
+You are tasked with building an advanced front-end web application that showcases your skills in front-end development using TypeScript. The application should solve a real-world problem or offer a useful feature set.
+
+Your Task:
+
+Your task is to build an advanced front-end web application using TypeScript. You have the creative freedom to choose the type of application you want to create, but it should challenge your skills and knowledge in front-end development.
+
+Part 2: Project Implementation
+
+Use TypeScript to implement the chosen web application:
+
+If your application requires state management, demonstrate how TypeScript is used to manage and update the application's state.
+
+Implement complex user interfaces, including responsive design and interactive elements, using TypeScript.
+
+If applicable, integrate your front-end application with back-end services or APIs. Ensure that TypeScript is used effectively for data communication and handling.
+
+Focus on best practices for front-end development, including code organization, modularity, and maintainability.
+
+Ensure that your TypeScript code is well-structured, readable, and follows best practices for front-end development.
+
+Part 3: Report
+
+Create a detailed report that describes your implementation and design decisions:
+
+Explain the purpose and functionality of your web application.
+
+Describe how TypeScript was used in your project, including its role in state management, user interface development, and integration with back-end services (if applicable).
+
+Discuss any challenges you encountered during development and how you addressed them.
+
+Part 4: Submission
+
+Submit the following:
+
+a. The TypeScript code containing your implementation of the advanced front-end web application.
+
+b. The complete project files, including HTML and CSS files, necessary for running the application.
+
+c. The report, which should be in a document format (e.g., PDF, Word), detailing your implementation and design decisions.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful implementation of the advanced front-end web application, including user interface design, responsiveness, and functionality.
+
+Effective use of TypeScript for state management, complex user interface development, and integration with back-end services (if applicable).
+
+Clarity and completeness of the report, including explanations of the application's purpose, TypeScript's role, and challenges faced during development.
+
+Proper organization and structure of the TypeScript code, HTML, and CSS files.
+
+Overall correctness and completeness of the assignment.

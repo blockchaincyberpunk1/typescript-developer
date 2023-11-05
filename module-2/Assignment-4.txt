@@ -1,0 +1,88 @@
+TypeScript Configuration File
+Objective: To learn how to create and configure a TypeScript tsconfig.json file.
+
+Task: In this assignment, you will be provided with a partially completed TypeScript project. Your task is to create a tsconfig.json file to configure the TypeScript compiler options. You should include settings for the target ECMAScript version, module system, and output directory. After creating the tsconfig.json file, you should submit it along with the modified project.
+
+Instructions:
+
+Part 1: Project Setup
+
+You will be provided with a partially completed TypeScript project. This project includes TypeScript files (.ts) and JavaScript files (.js) in a directory named src.
+
+The project structure may look like this:
+
+css
+Copy code
+project/
+├── src/
+│   ├── file1.ts
+│   ├── file2.ts
+│   └── ...
+├── index.html
+├── ...
+└── ...
+You can assume that there are TypeScript files in the src directory.
+
+Part 2: Create tsconfig.json
+
+Your task is to create a tsconfig.json file to configure the TypeScript compiler options.
+
+Inside the project directory (project in this case), create a new file named tsconfig.json.
+
+Configure the tsconfig.json file with the following compiler options:
+
+a. Set the target ECMAScript version to ES6 (ECMAScript 2015).
+
+b. Use the CommonJS module system.
+
+c. Specify the output directory as dist for the compiled JavaScript files.
+
+Your tsconfig.json file should look like this:
+
+json
+Copy code
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "CommonJS",
+        "outDir": "dist"
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
+Part 3: Compile TypeScript
+
+In the terminal, navigate to the project directory (e.g., cd project).
+
+Use the TypeScript compiler (tsc) to compile the TypeScript files based on the tsconfig.json configuration:
+
+bash
+Copy code
+tsc
+This command should generate the compiled JavaScript files in the dist directory.
+
+Part 4: Submission
+
+Create a zip file containing:
+
+a. The tsconfig.json file you created.
+
+b. The entire project directory (including the src and dist directories).
+
+Submit the zip file through the course assignment submission portal.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful creation and configuration of the tsconfig.json file with the specified compiler options.
+
+Proper compilation of the TypeScript files into JavaScript using the tsc command.
+
+Submission of the tsconfig.json file and the modified project directory.
+
+Adherence to the assignment instructions and completion of all required steps.

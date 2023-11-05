@@ -1,0 +1,72 @@
+Object-Oriented Programming in TypeScript
+Objective: To practice creating classes and using inheritance in TypeScript.
+
+Task: In this assignment, you will be provided with a set of requirements for a simple object-oriented project, specifically modeling shapes like circles and rectangles. Your task is to create TypeScript classes to represent these shapes and demonstrate inheritance by creating subclasses. You should also provide methods for calculating the area and perimeter of these shapes. After defining the classes, you should submit your TypeScript code along with a test program that showcases the usage of these classes.
+
+Instructions:
+
+Part 1: Define Classes
+
+Shape Class:
+
+Create a TypeScript class called Shape that serves as the base class for all shapes. This class should have the following properties:
+
+name (string): A descriptive name for the shape (e.g., "Circle," "Rectangle").
+color (string): The color of the shape.
+The Shape class should also have a constructor that initializes these properties.
+
+Circle Class:
+
+Create a TypeScript class called Circle that extends the Shape class. The Circle class should have the following additional properties:
+
+radius (number): The radius of the circle.
+Implement a constructor for the Circle class that calls the constructor of the parent Shape class and initializes the radius property.
+
+Rectangle Class:
+
+Create a TypeScript class called Rectangle that extends the Shape class. The Rectangle class should have the following additional properties:
+
+width (number): The width of the rectangle.
+height (number): The height of the rectangle.
+Implement a constructor for the Rectangle class that calls the constructor of the parent Shape class and initializes the width and height properties.
+
+Part 2: Calculate Area and Perimeter
+
+In each class (i.e., Circle and Rectangle), add methods for calculating the area and perimeter of the respective shapes. The method signatures should be as follows:
+
+calculateArea(): number: Returns the area of the shape.
+calculatePerimeter(): number: Returns the perimeter of the shape.
+Implement these methods in each class according to the formulas for circles and rectangles.
+
+Part 3: Test Program
+
+Create a test program (a TypeScript file) named testShapes.ts that demonstrates the usage of your classes. In this program:
+
+Create instances of both Circle and Rectangle classes.
+Set their properties (e.g., radius, width, height, color).
+Calculate and display the area and perimeter of each shape using the methods you implemented.
+Part 4: Submission
+
+Submit three files:
+
+a. Shape.ts: Contains the Shape class.
+b. Circle.ts: Contains the Circle class.
+c. Rectangle.ts: Contains the Rectangle class.
+
+Also, submit the testShapes.ts file, which is your test program.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct definition of the Shape, Circle, and Rectangle classes with appropriate properties and inheritance.
+
+Implementation of methods to calculate the area and perimeter of shapes.
+
+Proper organization and structure of TypeScript code.
+
+Accuracy and completeness of the test program (testShapes.ts) that demonstrates the usage of the classes.
+
+Clarity and completeness of comments and documentation.
+
+Overall correctness and completeness of the assignment.

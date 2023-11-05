@@ -1,0 +1,63 @@
+Debugging TypeScript with Visual Studio Code
+Objective: To explore debugging TypeScript applications using Visual Studio Code.
+
+Task: In this assignment, you will provide students with a TypeScript application and guide them to use Visual Studio Code's debugging features to identify and fix issues within the code. Students should use breakpoints, watch variables, and step through code execution to pinpoint problems. They should submit the corrected TypeScript code along with a report detailing their debugging process.
+
+Instructions:
+
+Part 1: Debugging Scenario
+
+Scenario:
+
+You are given a TypeScript application that contains one or more known bugs or issues affecting its functionality. Your task is to debug the application using Visual Studio Code's debugging features to identify and fix the problems.
+
+Your Task:
+
+Familiarize yourself with the provided TypeScript application, including its functionality and any apparent issues or bugs.
+
+Part 2: Debugging with Visual Studio Code
+
+Use Visual Studio Code (VS Code) to debug the TypeScript application.
+
+Open the application project in VS Code.
+
+Set up and configure the debugging environment in VS Code.
+
+Use breakpoints, watch variables, and other debugging features to inspect and debug the code.
+
+Provide a detailed step-by-step debugging process:
+
+Describe the steps you took to identify and fix the problems, including any specific actions you performed in VS Code.
+
+Explain how you used breakpoints and variable watches to isolate issues within the code.
+
+Include screenshots or descriptions of relevant portions of code or debugging windows in VS Code.
+
+Describe how you determined the root causes of the issues.
+
+Part 3: Correct the Issues
+
+Once you have identified the problems, fix the bugs or issues within the TypeScript code.
+
+Ensure that your corrections are logically sound and address the root causes of the problems.
+Part 4: Submission
+
+Submit the following:
+
+a. A detailed report of your debugging process, including step-by-step instructions and any screenshots or descriptions of relevant portions of code or debugging windows in VS Code.
+
+b. The corrected TypeScript code with the issues fixed.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct identification of the bugs or issues within the TypeScript application.
+
+Effective use of Visual Studio Code's debugging features, including breakpoints, variable watches, and code inspection.
+
+Clarity and completeness of the debugging process report, including step-by-step instructions, descriptions of debugging actions, and relevant screenshots.
+
+Proper correction of the issues within the TypeScript code, ensuring that the root causes of the problems are addressed.
+
+Overall correctness and completeness of the assignment.

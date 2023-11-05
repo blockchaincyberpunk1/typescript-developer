@@ -1,0 +1,48 @@
+API Integration with Promises
+Objective: To practice working with APIs and handling asynchronous operations using Promises in TypeScript.
+
+Task: In this assignment, you will be provided with the documentation of a RESTful API, such as a weather API. Your task is to create a TypeScript application that fetches data from this API. You should use Promises for asynchronous operations to handle the API requests and responses. The application should display the retrieved data in a user-friendly format. After implementing the application, you should submit the TypeScript code.
+
+Instructions:
+
+Part 1: API Documentation
+
+Scenario:
+
+You are tasked with creating a TypeScript application that fetches data from a RESTful API, such as a weather API. You will need to read the API documentation to understand how to make requests and handle responses.
+
+Your Task:
+
+Choose a RESTful API (e.g., weather, currency exchange, news, etc.) and read its documentation to understand the available endpoints and request/response formats.
+
+Part 2: TypeScript Application
+
+Create a TypeScript application that fetches data from the chosen API using the fetch API or any HTTP request library of your choice. You should use Promises to handle asynchronous operations.
+
+Implement error handling for cases where the API request fails or returns an error response.
+
+Parse the API response data and display it in a user-friendly format. For example, if you are using a weather API, you can display the weather forecast for a specific location.
+
+Part 3: User Interface (Optional)
+
+If you wish to enhance your assignment, create a simple user interface using HTML and CSS to interact with the API. For example, you can create a web page with a form to input parameters for the API request and display the results on the page.
+Part 4: Submission
+
+Submit the TypeScript code for your application. Include comments to explain how the code works, how you handle Promises, and how you handle errors.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of the TypeScript application to fetch data from the chosen API using Promises.
+
+Proper error handling for API requests and responses.
+
+Parsing and displaying the retrieved data in a user-friendly format.
+
+Clarity and completeness of comments explaining the code and how Promises are used.
+
+Optional user interface (if implemented) that provides a user-friendly way to interact with the API.
+
+Proper organization and structure of TypeScript code.
+
+Overall correctness and completeness of the assignment.

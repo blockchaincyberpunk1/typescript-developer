@@ -1,0 +1,70 @@
+Setting Up a Testing Environment
+Objective: To introduce students to testing frameworks and setting up a testing environment in TypeScript.
+
+Task: In this assignment, you will instruct students to choose a popular TypeScript testing framework (e.g., Jest or Jasmine) and set up a testing environment for a simple TypeScript application. You should provide them with a TypeScript codebase that includes functions or classes to be tested. Students will write unit tests using their chosen testing framework to ensure that the code behaves as expected. They should submit the test code along with a report on their testing process.
+
+Instructions:
+
+Part 1: Choose a Testing Framework
+
+Scenario:
+
+You are working on a TypeScript project and want to ensure that your code is reliable and free of defects. To achieve this, you need to set up a testing environment and write unit tests for your TypeScript code.
+
+Your Task:
+
+Choose a popular TypeScript testing framework for your project. Options include Jest, Jasmine, Mocha with Chai, etc. Ensure that the chosen framework suits your needs and supports TypeScript.
+
+Part 2: Set Up a Testing Environment
+
+Set up a testing environment for your TypeScript project using the chosen testing framework.
+
+Configure the testing environment to work seamlessly with TypeScript, including installing any necessary TypeScript dependencies and configuration files.
+
+Create a directory structure for your tests, separate from your source code.
+
+Part 3: Write Unit Tests
+
+You will be provided with a TypeScript codebase containing functions or classes that need to be tested. Your task is to write unit tests for these functions or classes.
+
+Create test files for each TypeScript file or module you want to test.
+
+Write unit tests that cover different scenarios and use cases, ensuring that your code is thoroughly tested.
+
+Part 4: Test Report
+
+After writing the unit tests, create a report that documents your testing process.
+
+Describe the testing framework you chose and explain why it was suitable for your project.
+
+Provide an overview of the test cases you wrote and the scenarios they cover.
+
+Include any challenges you encountered during the testing process and how you resolved them.
+
+Reflect on the importance of testing in software development and how it contributes to code quality.
+
+Part 5: Submission
+
+Submit the following:
+
+a. The test code containing unit tests for the provided TypeScript codebase.
+
+b. The configuration files and setup related to your testing environment.
+
+c. The test report, which should be in a document format (e.g., PDF, Word) explaining your testing process and outcomes.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct choice and setup of a TypeScript testing framework suitable for the project.
+
+Proper configuration of the testing environment for TypeScript.
+
+Implementation of comprehensive unit tests that cover various scenarios and use cases.
+
+Clarity and completeness of the test report, including explanations of the testing framework choice, test cases, challenges faced, and reflections on the importance of testing.
+
+Proper organization and structure of the test code and configuration files.
+
+Overall correctness and completeness of the assignment.

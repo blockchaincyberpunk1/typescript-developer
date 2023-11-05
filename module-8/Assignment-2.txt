@@ -1,0 +1,71 @@
+Simple E-commerce Website with TypeScript
+Objective: To apply TypeScript knowledge in the context of a simple e-commerce site.
+
+Task: In this assignment, students will be tasked with building a basic e-commerce website that displays products, allows users to add items to a shopping cart, and proceed to checkout. They should use TypeScript to handle product data, cart functionality, and form validation. The assignment should include TypeScript code, HTML/CSS files, and a report detailing the implementation and any challenges faced.
+
+Instructions:
+
+Part 1: Project Description
+
+Scenario:
+
+You are tasked with creating a simple e-commerce website using TypeScript. The website should demonstrate your TypeScript skills and the ability to handle e-commerce functionality.
+
+Your Task:
+
+Your task is to build a basic e-commerce website that includes the following features:
+
+Display a list of products with their names, prices, and images.
+Allow users to add products to a shopping cart.
+Display the shopping cart's contents, including product names, quantities, and total cost.
+Implement a checkout form with validation for shipping information (e.g., name, address, payment details).
+Calculate and display the final order total.
+Part 2: Project Implementation
+
+Use TypeScript to implement the e-commerce website:
+
+Create a user-friendly and responsive user interface using HTML and CSS.
+
+Implement TypeScript code to manage product data, shopping cart functionality, and form validation.
+
+Ensure that the shopping cart data is maintained even when the page is refreshed (you can use local storage).
+
+Implement form validation for the checkout process, ensuring that users provide valid shipping information.
+
+Ensure that the application follows best practices for front-end development, including code organization, modularity, and maintainability.
+
+Ensure that your TypeScript code is well-structured, readable, and follows best practices for front-end development.
+
+Part 3: Report
+
+Create a report that describes the implementation of your e-commerce website:
+
+Explain the purpose and functionality of your website.
+
+Describe how TypeScript was used in your project, including its role in handling product data, cart functionality, and form validation.
+
+Discuss any challenges you encountered during development and how you addressed them.
+
+Part 4: Submission
+
+Submit the following:
+
+a. The TypeScript code containing your implementation of the e-commerce website.
+
+b. The complete project files, including HTML and CSS files, necessary for running the website.
+
+c. The report, which should be in a document format (e.g., PDF, Word), detailing your website's features, challenges, and lessons learned.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful implementation of the e-commerce website, including product display, shopping cart functionality, form validation, and a user-friendly interface.
+
+Effective use of TypeScript for front-end development, including proper organization, modularity, and code quality.
+
+Clarity and completeness of the report, including explanations of the website's purpose, TypeScript's role, challenges faced, and lessons learned.
+
+Proper organization and structure of the TypeScript code, HTML, and CSS files.
+
+Overall correctness and completeness of the assignment.

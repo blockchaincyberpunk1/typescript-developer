@@ -1,0 +1,51 @@
+Interfaces and Function Signatures
+Objective: To reinforce the concept of interfaces and typed function signatures.
+
+Task: In this assignment, you will be presented with a scenario where you need to define an interface for an object, including the expected properties and their types. Your task is to create functions that use this interface as a type annotation for their parameters. After defining the interface and creating the functions, you should submit TypeScript code with examples of functions using the defined interface.
+
+Instructions:
+
+Part 1: Define an Interface
+
+Scenario: You are building a system for managing books in a library. You need to define an interface called Book that represents the properties of a book object. Each book should have properties like title, author, publicationYear, and ISBN. Define the interface Book with appropriate property names and types.
+Part 2: Create Functions
+
+Create TypeScript functions that demonstrate the use of the Book interface as a type annotation for their parameters. You should create at least two functions:
+
+a. Function 1: Display Book Information
+
+Write a function that takes a Book object as a parameter and displays its information. You should use the console.log function to print the book's properties.
+
+b. Function 2: Calculate Book Age
+
+Write a function that takes a Book object as a parameter and calculates the age of the book based on the publicationYear property. You can assume the current year as 2023 and calculate the age as the difference between the current year and the publication year.
+
+Part 3: Submit TypeScript Code
+
+Create a TypeScript file named assignment2.ts.
+
+In assignment2.ts, define the Book interface and implement the two functions described in Part 2. Ensure that you use the Book interface as a type annotation for the function parameters.
+
+Include comments in your code to explain the purpose of each function and how the Book interface is used.
+
+Part 4: Example Usage
+
+Below your code, provide examples demonstrating the usage of the functions you created. Create at least one Book object and use your functions to display its information and calculate its age.
+Submission Guidelines:
+
+Submit the assignment2.ts file containing your TypeScript code with comments and examples.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct definition of the Book interface with appropriate property names and types.
+
+Proper implementation of the functions using the Book interface as a type annotation for function parameters.
+
+Clarity of comments explaining the purpose of each function and how the Book interface is used.
+
+Correct usage of the functions to display book information and calculate book age in the provided examples.
+
+Proper organization of code and adherence to best practices in TypeScript coding.
+
+Overall correctness and completeness of the assignment.

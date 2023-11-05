@@ -1,0 +1,70 @@
+Basic DOM Manipulation with TypeScript
+Objective: To reinforce TypeScript's role in front-end development by manipulating the DOM.
+
+Task: In this assignment, you will provide students with an HTML template and a basic TypeScript application. Instruct them to use TypeScript to manipulate the DOM elements. For example, they can create a simple to-do list application where they can add, delete, and update tasks dynamically using TypeScript. Students should submit the TypeScript code along with a working HTML file and a brief report explaining their approach.
+
+Instructions:
+
+Part 1: HTML Template and Initial TypeScript Setup
+
+Scenario:
+
+You are tasked with creating a front-end application that involves manipulating the Document Object Model (DOM) using TypeScript. Your goal is to build a simple interactive web application.
+
+Your Task:
+
+You will be provided with an HTML template and a basic TypeScript application file. Familiarize yourself with these files.
+
+HTML Template: Contains the basic structure of the web page, including necessary elements like buttons, input fields, and placeholders.
+
+TypeScript Application File: Contains the initial TypeScript code and serves as the starting point for your development.
+
+Part 2: DOM Manipulation with TypeScript
+
+Use TypeScript to manipulate the DOM elements based on the following requirements:
+
+Create a to-do list application where users can add, delete, and update tasks.
+
+Implement functionality to add tasks dynamically to the list when the user enters a task description and clicks an "Add" button.
+
+Allow users to mark tasks as completed or uncompleted by clicking a checkbox next to each task.
+
+Implement the ability to edit task descriptions by clicking an "Edit" button.
+
+Provide a "Delete" button for each task to allow users to remove tasks from the list.
+
+Write TypeScript code to handle user interactions and update the DOM accordingly. Ensure that the application is user-friendly and responsive.
+
+Part 3: Report
+
+Create a brief report that explains your approach to solving this assignment.
+
+Describe how you used TypeScript to manipulate the DOM elements.
+
+Explain any challenges you encountered during development and how you overcame them.
+
+Reflect on the importance of TypeScript in front-end development and how it simplifies DOM manipulation.
+
+Part 4: Submission
+
+Submit the following:
+
+a. The TypeScript code containing your implementation of the to-do list application.
+
+b. A working HTML file that includes your TypeScript code and allows the application to be run in a web browser.
+
+c. The report, which should be in a document format (e.g., PDF, Word), explaining your approach and reflections.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of the to-do list application, including the ability to add, delete, update, and mark tasks as completed.
+
+Effective use of TypeScript to manipulate the DOM elements and handle user interactions.
+
+Clarity and completeness of the report, including explanations of the approach taken, challenges faced, and reflections on TypeScript's role in front-end development.
+
+Proper organization and structure of the TypeScript code and HTML file.
+
+Overall correctness and completeness of the assignment.

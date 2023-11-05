@@ -1,0 +1,73 @@
+Complex API Integration and Data Processing
+Objective: To simulate a real-world project involving complex API integration and data processing in TypeScript.
+
+Task: In this assignment, you will challenge students to work on a complex API scenario, such as integrating with a social media API that requires authentication and supports pagination. Their task is to build a TypeScript application that can handle the intricacies of this API, including authentication, pagination, and efficient data processing. Students should create a user-friendly interface for displaying the data. After implementing the application, they should submit the TypeScript code, showcasing their ability to work with complex APIs and data.
+
+Instructions:
+
+Part 1: Complex API Scenario
+
+Scenario:
+
+You are tasked with building a TypeScript application that integrates with a complex API, such as a social media API. This API requires authentication, supports pagination for retrieving large datasets, and may have specific rate limiting and data processing requirements.
+
+Your Task:
+
+Simulate the integration with a complex API by defining the API's behavior and requirements. Consider the following aspects:
+
+Authentication: Specify the authentication mechanism required to access the API (e.g., OAuth2, API keys, tokens).
+
+Pagination: Define how the API handles pagination and how to retrieve multiple pages of data efficiently.
+
+Rate Limiting: Describe any rate limiting policies imposed by the API and how to handle rate limits gracefully.
+
+Data Processing: Specify the format of the API responses and any data processing or transformations required to display the data.
+
+Part 2: TypeScript Application
+
+Create a TypeScript application that integrates with the complex API defined in Part 1. Your application should:
+
+Authenticate with the API using the specified authentication mechanism.
+
+Implement pagination to retrieve and display multiple pages of data.
+
+Handle rate limiting to ensure that API requests do not exceed rate limits.
+
+Efficiently process and display the data retrieved from the API in a user-friendly interface.
+
+Part 3: User Interface
+
+Create a user-friendly interface for your TypeScript application. This can be a web page, a desktop application, or any appropriate interface for interacting with the API and displaying the data.
+
+Implement user-friendly features that enhance the usability of the application (e.g., search, filtering, sorting).
+
+Part 4: Documentation
+
+Provide documentation for your TypeScript application, including:
+
+An overview of the application's purpose and functionality.
+
+Detailed instructions on how to set up and run the application.
+
+Explanations of how the complex API integration works and how you handle authentication, pagination, and rate limiting.
+
+Part 5: Submission
+
+Submit the TypeScript code for your application, including any relevant configuration files (e.g., for authentication).
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of the TypeScript application that integrates with the complex API.
+
+Proper handling of authentication, pagination, and rate limiting as defined in the complex API scenario.
+
+Efficient data processing and user-friendly display of the retrieved data.
+
+Implementation of a user-friendly interface that enhances the usability of the application.
+
+Clarity and completeness of documentation explaining the application's purpose, functionality, setup, and complex API integration.
+
+Proper organization and structure of TypeScript code in the application.
+
+Overall correctness and completeness of the assignment.

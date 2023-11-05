@@ -1,0 +1,77 @@
+Generics and Type Constraints
+Objective: To understand generics and type constraints in TypeScript.
+
+Task: In this assignment, you will be presented with a scenario where you need to create a TypeScript function that works with multiple data types. Your task is to use generics and type constraints to ensure type safety for this function. After implementing the function, you should provide a set of test cases that demonstrate its functionality with various data types. You should then submit TypeScript code and test cases.
+
+Instructions:
+
+Part 1: Define a Generic Function
+
+Scenario:
+
+You are developing a utility function for formatting and validating user input. The function should accept a value and a formatter function as arguments. The formatter function can transform the input value into a desired format, but it should return a value of the same type as the input. You want to ensure that the function is type-safe and works with various data types, including numbers, strings, and dates.
+
+Create a TypeScript function called formatAndValidate that accepts two generic type parameters: T (the input data type) and F (the formatter function type).
+
+The function should have the following signature:
+
+typescript
+Copy code
+function formatAndValidate<T, F>(value: T, formatter: F): T {
+    // Implement the function logic here.
+}
+Part 2: Implement the Function
+
+Implement the formatAndValidate function:
+
+It should take an input value of type T and a formatter function of type F.
+
+Apply the formatter function to the input value to transform it.
+
+Ensure that the formatter function returns a value of the same type as the input value.
+
+If the transformed value is valid, return it. Otherwise, throw an error.
+
+Part 3: Type Constraints
+
+Add type constraints to the generic parameters to ensure type safety:
+
+Use type constraints to restrict T to types that can be formatted and validated (e.g., numbers, strings, and dates).
+
+Ensure that the formatter function F accepts and returns values of type T.
+
+Part 4: Test Cases
+
+Create a TypeScript file named testFormatAndValidate.ts.
+
+In testFormatAndValidate.ts, write test cases that demonstrate the functionality of the formatAndValidate function with various data types (e.g., numbers, strings, dates).
+
+Use different formatter functions to transform the input values.
+
+Test both valid and invalid cases.
+
+Use console.log statements to display the results of the function calls.
+
+Part 5: Submission
+
+Submit two files:
+
+a. formatAndValidate.ts: Contains the implementation of the formatAndValidate function.
+
+b. testFormatAndValidate.ts: Contains your test cases and usage examples of the formatAndValidate function.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct definition and implementation of the formatAndValidate function.
+
+Proper use of generics and type constraints to ensure type safety.
+
+Accuracy and completeness of test cases in testFormatAndValidate.ts that demonstrate the functionality of the formatAndValidate function with various data types.
+
+Clarity and completeness of comments and documentation.
+
+Proper organization and structure of TypeScript code.
+
+Overall correctness and completeness of the assignment.

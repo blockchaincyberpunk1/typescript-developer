@@ -1,0 +1,26 @@
+To-Do List Application:
+
+Create a web-based to-do list application using TypeScript.
+Allow users to add, edit, and delete tasks.
+Implement task completion functionality with checkboxes.
+Store tasks in the browser's local storage for persistence.
+Calculator Application:
+
+Build a basic calculator with a user interface using TypeScript.
+Include features for addition, subtraction, multiplication, and division.
+Implement a display area to show input and calculated results.
+Weather App:
+
+Create a weather application that fetches weather data from a public weather API.
+Allow users to enter a location and retrieve the current weather conditions.
+Display temperature, weather description, and an icon representing the weather.
+Currency Converter:
+
+Build a currency converter application using TypeScript.
+Allow users to input an amount in one currency and convert it to another.
+Fetch current exchange rates from a public API for accurate conversions.
+Random Quote Generator:
+
+Develop a simple web app that displays random quotes.
+Store a collection of quotes in your TypeScript code.
+Implement a button that generates and displays a random quote on each click.

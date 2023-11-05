@@ -1,0 +1,81 @@
+Generic Function
+Objective: To practice using generics for writing flexible and reusable code.
+
+Task: In this assignment, you will be provided with a function written in JavaScript. Your task is to convert this JavaScript function into a TypeScript function using generics. You should ensure that the function can work with different data types while maintaining type safety. After implementing the TypeScript function, you should provide test cases to demonstrate its flexibility. You should then submit the TypeScript code and test cases.
+
+Instructions:
+
+Part 1: JavaScript Function
+
+Scenario:
+
+You are given a JavaScript function that sorts an array of elements in ascending order. The function uses the bubble sort algorithm.
+
+javascript
+Copy code
+function bubbleSort(arr) {
+    let len = arr.length;
+    let swapped;
+    do {
+        swapped = false;
+        for (let i = 0; i < len - 1; i++) {
+            if (arr[i] > arr[i + 1]) {
+                let temp = arr[i];
+                arr[i] = arr[i + 1];
+                arr[i + 1] = temp;
+                swapped = true;
+            }
+        }
+    } while (swapped);
+    return arr;
+}
+Your Task:
+
+Convert the given JavaScript bubbleSort function into a TypeScript function that uses generics. You should define a generic type parameter to ensure that the function can work with different data types (e.g., numbers, strings, etc.).
+
+Your TypeScript function should have the following signature:
+
+typescript
+Copy code
+function bubbleSort<T>(arr: T[]): T[] {
+    // Implement the function logic here.
+}
+Part 2: TypeScript Implementation
+
+Implement the bubbleSort function in TypeScript using generics. Ensure that the function retains its ability to sort arrays of various data types while maintaining type safety.
+
+Test the TypeScript bubbleSort function with various data types (e.g., numbers, strings) to demonstrate its flexibility.
+
+Part 3: Test Cases
+
+Create a TypeScript file named testBubbleSort.ts.
+
+In testBubbleSort.ts, write test cases that demonstrate the functionality of your TypeScript bubbleSort function with different data types.
+
+Create arrays of numbers and strings and use the bubbleSort function to sort them.
+
+Use console.log statements to display the sorted arrays.
+
+Part 4: Submission
+
+Submit two files:
+
+a. bubbleSort.ts: Contains the implementation of the TypeScript bubbleSort function.
+
+b. testBubbleSort.ts: Contains your test cases and usage examples of the bubbleSort function.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of the bubbleSort function in TypeScript using generics.
+
+Proper use of generics to ensure that the function works with different data types while maintaining type safety.
+
+Accuracy and completeness of test cases in testBubbleSort.ts that demonstrate the functionality of the bubbleSort function with different data types.
+
+Clarity and completeness of comments and documentation.
+
+Proper organization and structure of TypeScript code.
+
+Overall correctness and completeness of the assignment.

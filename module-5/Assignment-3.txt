@@ -1,0 +1,59 @@
+Third-Party Library Integration
+Objective: To introduce students to incorporating external libraries and type definitions in TypeScript projects.
+
+Task: In this assignment, you will be provided with a TypeScript project that requires functionality beyond the standard TypeScript library. Your task is to identify a relevant third-party library (e.g., a charting library like Chart.js) and integrate it into the project. You should also add type definitions for the library if necessary. Finally, you should showcase the library's functionality within your TypeScript project and submit the code.
+
+Instructions:
+
+Part 1: TypeScript Project
+
+Scenario:
+
+You are working on a TypeScript project that requires specific functionality that is not available in the standard TypeScript library. This could be related to data visualization, UI components, or any other specialized functionality.
+
+Your Task:
+
+Identify a relevant third-party library that provides the required functionality. For example, you can choose a charting library like Chart.js, a UI component library like React Bootstrap, or any other library that fits the project's needs.
+
+Part 2: Library Integration
+
+Integrate the chosen third-party library into your TypeScript project.
+
+Use npm or yarn to install the library and add it as a dependency in your project.
+
+Import and use the library's components, functions, or classes in your TypeScript code.
+
+Part 3: Type Definitions (if needed)
+
+If the chosen library does not provide TypeScript type definitions (.d.ts files), you should add type definitions for the library to ensure type safety in your TypeScript project.
+
+Create a custom .d.ts file for the library or use an existing DefinitelyTyped definition file if available.
+
+Ensure that TypeScript recognizes the library's types and enforces type checking.
+
+Part 4: Showcase Functionality
+
+Showcase the functionality provided by the third-party library within your TypeScript project. This can be done by implementing features or components that utilize the library's capabilities.
+
+Create a user interface or demonstrate the functionality in a meaningful way.
+
+Part 5: Submission
+
+Submit the TypeScript code for your project, including any custom type definition files if you created them.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct integration of the chosen third-party library into the TypeScript project.
+
+Proper usage of the library's components, functions, or classes within your TypeScript code.
+
+If necessary, correct implementation of custom TypeScript type definitions for the library.
+
+Effective showcase of the library's functionality within the project, including user interface or demonstration.
+
+Clarity and completeness of comments explaining how the library is integrated and utilized in the project.
+
+Proper organization and structure of TypeScript code.
+
+Overall correctness and completeness of the assignment.

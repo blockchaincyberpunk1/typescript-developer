@@ -1,0 +1,69 @@
+Working with Namespaces
+Objective: To explore the use of namespaces in TypeScript.
+
+Task: In this assignment, you will be presented with a scenario where namespaces can be beneficial, such as a game development project with different game components. Your task is to implement namespaces and organize the code accordingly. You should demonstrate how namespaces help avoid naming conflicts and improve code maintainability. After implementing namespaces, you should submit TypeScript code organized into namespaces.
+
+Instructions:
+
+Part 1: Scenario
+
+Scenario:
+
+You are working on a game development project in TypeScript. The project consists of various game components, such as characters, weapons, and enemies. Each component has its own set of classes, functions, and variables.
+
+Your Task:
+
+Organize the TypeScript code using namespaces to encapsulate related functionality within separate namespaces. Use namespaces to avoid naming conflicts and improve code maintainability. Your namespaces should reflect the logical structure of the game components.
+
+Part 2: TypeScript Implementation
+
+Create a TypeScript file for each game component. For example:
+
+characters.ts: Contains classes and functions related to game characters.
+weapons.ts: Contains classes and functions related to weapons.
+enemies.ts: Contains classes and functions related to game enemies.
+Define namespaces for each TypeScript file to encapsulate the related functionality. For instance, you can define namespaces like:
+
+typescript
+Copy code
+namespace Characters {
+    // Define character-related classes and functions here.
+}
+
+namespace Weapons {
+    // Define weapon-related classes and functions here.
+}
+
+namespace Enemies {
+    // Define enemy-related classes and functions here.
+}
+Ensure that each namespace encapsulates its related functionality.
+
+Part 3: Demonstration
+
+Create a TypeScript file named game.ts that demonstrates the usage of the namespaces. In this file:
+
+Import the necessary classes and functions from the appropriate namespaces.
+
+Demonstrate how the namespaces help you organize and access the game components without naming conflicts.
+
+Include comments to explain the purpose of each namespace and how it contributes to code organization.
+
+Part 4: Submission
+
+Submit the entire TypeScript project, including all TypeScript files organized into namespaces.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct use of namespaces to encapsulate related functionality in separate TypeScript files.
+
+Proper organization of code within each namespace to reflect the logical structure of the game components.
+
+Clarity and completeness of comments explaining the purpose of each namespace and how namespaces help avoid naming conflicts and improve code maintainability.
+
+Accuracy and completeness of the demonstration in game.ts that showcases the usage of the namespaces.
+
+Proper organization and structure of TypeScript code.
+
+Overall correctness and completeness of the assignment.

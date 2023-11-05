@@ -1,0 +1,51 @@
+API Integration with async/await
+Objective: To reinforce understanding of working with APIs and asynchronous operations, this time using async/await in TypeScript.
+
+Task: In this assignment, you will be presented with the documentation of a different RESTful API, such as a news API. Your task is to build a TypeScript application that interacts with this API. You should use async/await to make API calls and process the data. The application should include a user interface to display the retrieved information. After implementing the application, you should submit the TypeScript code.
+
+Instructions:
+
+Part 1: API Documentation
+
+Scenario:
+
+You are tasked with creating a TypeScript application that fetches data from a different RESTful API (e.g., news, movies, sports, etc.). Read the API documentation to understand the available endpoints, request parameters, and response formats.
+
+Your Task:
+
+Choose a RESTful API (different from Assignment 1) and read its documentation to understand how to make requests and handle responses.
+
+Part 2: TypeScript Application
+
+Create a TypeScript application that fetches data from the chosen API using async/await to handle asynchronous operations.
+
+Implement error handling for cases where the API request fails or returns an error response.
+
+Parse the API response data and display it in a user-friendly format. For example, if you are using a news API, you can display a list of news articles with headlines and summaries.
+
+Part 3: User Interface
+
+Create a simple user interface using HTML and CSS to interact with the API. For instance, you can create a web page that allows users to search for specific data or browse categories.
+
+Implement user-friendly features, such as search functionality, pagination, or filters, if applicable to your chosen API.
+
+Part 4: Submission
+
+Submit the TypeScript code for your application. Include comments to explain how the code works, how you use async/await, and how you handle errors.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of the TypeScript application to fetch data from the chosen API using async/await.
+
+Proper error handling for API requests and responses.
+
+Parsing and displaying the retrieved data in a user-friendly format.
+
+Implementation of a user interface that provides a user-friendly way to interact with the API (search, browse, etc.).
+
+Clarity and completeness of comments explaining the code and how async/await is used.
+
+Proper organization and structure of TypeScript code.
+
+Overall correctness and completeness of the assignment.

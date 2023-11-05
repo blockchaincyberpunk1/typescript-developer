@@ -1,0 +1,61 @@
+Type Annotations and Inference
+Objective: To practice using type annotations and understand type inference in TypeScript.
+
+Task: In this assignment, you will be provided with a set of JavaScript functions. Your task is to convert these functions to TypeScript, adding type annotations to function parameters and return values. Additionally, you should provide comments explaining your choices for type annotations. After converting the functions, you should submit the TypeScript code with comments.
+
+Instructions:
+
+Part 1: Type Annotations
+
+You will be provided with a set of JavaScript functions. Your task is to convert these functions to TypeScript by adding appropriate type annotations to function parameters and return values.
+
+In your TypeScript code, include comments explaining your choices for type annotations. Describe why you chose specific types for parameters and return values.
+
+JavaScript Functions:
+
+a. Function 1: Calculate Area
+
+javascript
+Copy code
+function calculateArea(width, height) {
+    return width * height;
+}
+b. Function 2: Format Greeting
+
+javascript
+Copy code
+function formatGreeting(name) {
+    return `Hello, ${name}!`;
+}
+c. Function 3: Get Length
+
+javascript
+Copy code
+function getLength(arr) {
+    return arr.length;
+}
+Part 2: Type Inference
+
+While adding type annotations, consider TypeScript's type inference capabilities. TypeScript can often infer types without explicit annotations. In cases where type inference is sufficient, you may choose not to provide explicit annotations.
+Part 3: Submission
+
+Create a TypeScript file named assignment1.ts.
+
+In assignment1.ts, rewrite the provided JavaScript functions as TypeScript functions, adding type annotations and comments as described above.
+
+Ensure that your TypeScript code is well-organized, follows best practices, and includes clear and concise comments.
+
+Submission Guidelines:
+
+Submit the assignment1.ts file containing your TypeScript code with comments.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness of the type annotations added to function parameters and return values.
+
+Clarity and completeness of comments explaining your choices for type annotations.
+
+Proper organization of code and adherence to best practices in TypeScript coding.
+
+Overall correctness and completeness of the assignment.

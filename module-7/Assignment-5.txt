@@ -1,0 +1,66 @@
+TypeScript in Single Page Applications (SPAs)
+Objective: To expose students to the development of single-page applications using TypeScript.
+
+Task: In this assignment, you will assign students the development of a single-page application (SPA) with multiple views or sections. They can choose to build a blog platform, a dashboard for data visualization, or a multimedia portfolio, all using TypeScript. The project should incorporate routing, navigation, and dynamic content loading typical of SPAs. Students should submit the TypeScript code, HTML/CSS files, and a comprehensive report detailing their SPA's features, challenges faced, and lessons learned.
+
+Instructions:
+
+Part 1: Project Description
+
+Scenario:
+
+You are tasked with developing a single-page application (SPA) that showcases your proficiency in TypeScript and front-end development. The SPA should be user-friendly and incorporate features commonly found in SPAs.
+
+Your Task:
+
+Your task is to build a single-page application using TypeScript that serves a specific purpose or offers a set of features. You have the creative freedom to choose the type of application you want to create, but it should be a substantial project that demonstrates your skills.
+
+Part 2: Project Implementation
+
+Use TypeScript to implement the SPA:
+
+Incorporate routing and navigation to enable users to move between different views or sections within your application.
+
+Implement dynamic content loading, such as fetching and displaying data from an API, database, or local storage.
+
+Design an intuitive and user-friendly interface with responsive design, ensuring the application works well on various devices.
+
+If applicable, integrate external libraries or components to enhance your SPA.
+
+Ensure that your TypeScript code is well-structured, modular, and follows best practices for front-end development.
+
+Part 3: Report
+
+Create a comprehensive report that provides insights into your SPA's development:
+
+Describe the purpose and functionality of your SPA.
+
+Explain how TypeScript was used in your project, including its role in routing, navigation, and dynamic content loading.
+
+Discuss any challenges you encountered during development and how you addressed them.
+
+Reflect on the lessons learned and the value of using TypeScript in building SPAs.
+
+Part 4: Submission
+
+Submit the following:
+
+a. The TypeScript code containing your implementation of the SPA.
+
+b. The complete project files, including HTML and CSS files, necessary for running the SPA.
+
+c. The report, which should be in a document format (e.g., PDF, Word), detailing your SPA's features, challenges, and lessons learned.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful implementation of the SPA, including routing, navigation, dynamic content loading, and user interface design.
+
+Effective use of TypeScript for developing SPAs, including proper organization, modularity, and code quality.
+
+Clarity and completeness of the report, including explanations of the SPA's purpose, TypeScript's role, challenges faced, and lessons learned.
+
+Proper organization and structure of the TypeScript code, HTML, and CSS files.
+
+Overall correctness and completeness of the assignment.

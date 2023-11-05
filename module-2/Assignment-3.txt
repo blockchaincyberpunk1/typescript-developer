@@ -1,0 +1,53 @@
+TypeScript and Node.js Integration
+Objective: To practice using TypeScript with Node.js.
+
+Task: In this assignment, you will be provided with a Node.js script written in JavaScript. Your task is to convert the provided JavaScript code to TypeScript. You should add type annotations to variables and function parameters to ensure that the code is statically typed. After converting the code, you should submit both the original JavaScript and the TypeScript versions of the code.
+
+Instructions:
+
+You will be provided with a JavaScript script (let's call it original.js). Your task is to convert this script to TypeScript.
+
+Create a TypeScript file named converted.ts.
+
+In converted.ts, rewrite the JavaScript code from original.js into TypeScript. Add appropriate type annotations to variables and function parameters to ensure type safety.
+
+Ensure that your TypeScript code is well-organized, follows best practices, and includes comments where necessary.
+
+Script: original.js
+
+javascript
+Copy code
+// This is a Node.js script in JavaScript.
+// Your task is to convert it to TypeScript.
+
+const greet = (name) => {
+    return `Hello, ${name}!`;
+};
+
+const name = "TypeScript Developer";
+const greeting = greet(name);
+
+console.log(greeting);
+Submission Guidelines:
+
+Submit two files:
+
+a. original.js containing the provided JavaScript code.
+
+b. converted.ts containing your TypeScript code with type annotations.
+
+Zip both files together.
+
+Submit the zip file through the course assignment submission portal.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful conversion of the provided JavaScript code to TypeScript with appropriate type annotations.
+
+Correctness and clarity of your TypeScript code.
+
+Proper organization of code and adherence to best practices in TypeScript coding.
+
+Overall correctness and completeness of the assignment.

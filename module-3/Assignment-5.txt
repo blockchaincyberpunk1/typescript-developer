@@ -1,0 +1,80 @@
+Combining TypeScript Features
+Objective: To combine various TypeScript features in a practical project.
+
+Task: In this assignment, you will be provided with a description of a small application, specifically a task management system. Your task is to implement this application using TypeScript, utilizing functions, interfaces, classes, inheritance, and type annotations wherever necessary. After implementing the application, you should submit your TypeScript project, including the main application file and relevant interfaces or classes.
+
+Instructions:
+
+Part 1: Application Description
+
+Scenario:
+
+You are tasked with creating a simple task management system. The system should allow users to create, update, and delete tasks. Each task has the following properties:
+
+id (string): A unique identifier for the task.
+title (string): The title of the task.
+description (string): A description of the task.
+completed (boolean): Indicates whether the task is completed.
+Requirements:
+
+Create a TypeScript project that implements this task management system.
+
+Define TypeScript interfaces or classes that represent tasks.
+
+Implement functions for creating, updating, and deleting tasks.
+
+Use type annotations wherever necessary to ensure type safety.
+
+Part 2: TypeScript Implementation
+
+Implement TypeScript interfaces or classes for representing tasks. You can choose either an interface-based or class-based approach, whichever you are more comfortable with.
+
+Implement functions for the following operations:
+
+createTask: Create a new task and add it to the task list.
+
+updateTask: Update the properties of an existing task based on its id.
+
+deleteTask: Delete a task based on its id.
+
+Ensure that these functions handle the task data with the appropriate TypeScript type annotations.
+
+Part 3: Test the Task Management System
+
+Create a TypeScript file named testTaskManagement.ts.
+
+In testTaskManagement.ts, write test cases that demonstrate the functionality of your task management system.
+
+Create tasks, update their properties, and delete tasks.
+
+Test various scenarios, including adding and modifying tasks.
+
+Use console.log statements to display the results of the function calls.
+
+Part 4: Submission
+
+Submit three files:
+
+a. taskManagement.ts: Contains the implementation of the task management system, including classes, interfaces, and functions.
+
+b. testTaskManagement.ts: Contains your test cases and usage examples of the task management system.
+
+c. Any other relevant files needed to run your application.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of TypeScript interfaces or classes representing tasks.
+
+Proper use of functions to create, update, and delete tasks.
+
+Effective use of type annotations and type safety throughout the project.
+
+Accuracy and completeness of test cases in testTaskManagement.ts that demonstrate the functionality of the task management system.
+
+Clarity and completeness of comments and documentation.
+
+Proper organization and structure of TypeScript code.
+
+Overall correctness and completeness of the assignment.

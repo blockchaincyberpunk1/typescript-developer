@@ -1,0 +1,70 @@
+Building a Custom TypeScript Library
+Objective: To encourage students to create their own TypeScript library and explore the process of building and using custom libraries.
+
+Task: In this assignment, you will challenge students to design and implement a small TypeScript library that provides a set of useful utility functions (e.g., string manipulation, data validation). They should document their library's API using JSDoc comments and create type definitions. Then, ask them to create a sample TypeScript application that uses their custom library. Students should submit the library code, documentation, and the application code.
+
+Instructions:
+
+Part 1: Custom TypeScript Library
+
+Scenario:
+
+You are tasked with creating a custom TypeScript library that provides a set of utility functions to perform common tasks. The library should be reusable, well-documented, and easy to use in TypeScript projects.
+
+Your Task:
+
+Design and implement a custom TypeScript library that includes at least five utility functions. The utility functions can perform tasks such as string manipulation, data validation, or any other useful functionality.
+
+Ensure that your library is well-structured and organized.
+
+Document the library's API using JSDoc comments for each function, describing their parameters, return types, and usage.
+
+Create TypeScript type definitions (.d.ts files) for your library to provide type safety when using the library in other projects.
+
+Part 2: Sample TypeScript Application
+
+Create a sample TypeScript application that demonstrates the usage of your custom library.
+
+Import and use the functions from your library in the application code.
+
+Showcase how the library's utility functions can be applied in real-world scenarios.
+
+Part 3: Documentation
+
+Provide clear and comprehensive documentation for your custom TypeScript library. This documentation should include:
+
+An overview of the library's purpose and functionality.
+
+Detailed explanations and examples of how to use each utility function.
+
+Instructions on how to install and import the library into a TypeScript project.
+
+Part 4: Submission
+
+Submit the following:
+
+a. The TypeScript code for your custom library, including all utility functions and type definitions.
+
+b. The TypeScript code for your sample application that uses the custom library.
+
+c. Documentation for the library, including an HTML or Markdown file that presents the library's overview and usage examples.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of the custom TypeScript library, including at least five utility functions.
+
+Proper organization and structure of the library code.
+
+Clear and comprehensive API documentation using JSDoc comments.
+
+Creation of TypeScript type definitions (.d.ts files) for the library.
+
+Correct implementation of the sample TypeScript application that uses the custom library.
+
+Clarity and completeness of the library's documentation, including an overview, usage examples, and installation instructions.
+
+Proper organization and structure of TypeScript code in both the library and the application.
+
+Overall correctness and completeness of the assignment.

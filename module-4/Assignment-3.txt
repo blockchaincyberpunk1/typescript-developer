@@ -1,0 +1,63 @@
+Organizing Code with Modules
+Objective: To practice organizing code using modules and namespaces in TypeScript.
+
+Task: In this assignment, you will be provided with a JavaScript project that lacks proper organization. Your task is to convert this project into a TypeScript project, organizing the code into modules. You should also use the import/export syntax to manage dependencies between modules. After organizing the code into modules, you should submit the TypeScript project with clear module organization and comments explaining your choices.
+
+Instructions:
+
+Part 1: JavaScript Project
+
+Scenario:
+
+You are given a JavaScript project that consists of multiple files. The project contains functions, classes, and variables scattered across different files without proper organization.
+
+Your Task:
+
+Convert the given JavaScript project into a TypeScript project with a clear module structure. You should create TypeScript modules to organize the code logically.
+
+Part 2: TypeScript Implementation
+
+Organize the JavaScript code into TypeScript modules based on logical groupings. For example, you can create modules for:
+
+Functions related to user authentication.
+Classes for managing data storage.
+Utility functions for date formatting.
+Any other logical groupings based on the provided code.
+Use the export keyword to export functions, classes, or variables that need to be accessible from other modules.
+
+Part 3: Dependency Management
+
+Use the import statement to manage dependencies between modules. Ensure that modules correctly import the functions, classes, or variables they need.
+
+Make sure that you properly specify the module paths in the import statements to reference the modules you have created.
+
+Part 4: Comments and Documentation
+
+Add comments to the TypeScript code to explain the purpose of each module, class, function, or variable.
+
+Provide comments that explain your choices for organizing the code into modules and the reasons behind the import/export decisions you made.
+
+Part 5: Test Cases
+
+Create a TypeScript file named testApp.ts that demonstrates the usage of the modules you have created. Import and use functions or classes from your modules in this test file.
+
+Include comments in testApp.ts to explain how the modules are used and demonstrate the functionality of your organized TypeScript project.
+
+Part 6: Submission
+
+Submit the entire TypeScript project, including all module files, with a clear module organization and comments explaining your choices.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct organization of the JavaScript project into TypeScript modules.
+
+Proper use of the export and import syntax to manage dependencies between modules.
+
+Clarity and completeness of comments explaining the purpose of each module and the import/export choices.
+
+Accuracy and completeness of test cases in testApp.ts that demonstrate the functionality of the organized TypeScript project.
+
+Proper organization and structure of TypeScript code.
+
+Overall correctness and completeness of the assignment.

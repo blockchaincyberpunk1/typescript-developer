@@ -1,0 +1,56 @@
+Variable Declaration in JavaScript
+Objective: To reinforce the understanding of variable declaration in JavaScript.
+
+Task: In this assignment, you will practice declaring variables in JavaScript using var, let, and const based on different scenarios. Properly choosing the right variable declaration keyword is essential for ensuring the correct behavior and scope of your variables.
+
+Instructions:
+
+Create a JavaScript file named assignment1.js for your solutions.
+
+In assignment1.js, you will find a set of scenarios. For each scenario, declare appropriate variables using var, let, or const based on the scope and use case of each variable.
+
+Include comments in your code to explain why you chose a specific variable declaration keyword (var, let, or const) for each scenario.
+
+Ensure that your code is well-organized and follows best practices.
+
+Scenarios:
+
+Scenario 1: User Information
+
+You are building a user registration form. Declare variables for the user's name, age, and email address.
+
+Scenario 2: Circle Properties
+
+You are calculating properties of a circle such as its radius, circumference, and area. Declare variables for these properties.
+
+Scenario 3: Configuration Settings
+
+You are working on a configuration module for a website. Declare variables to store settings like backgroundColor, fontSize, and theme.
+
+Scenario 4: Counter
+
+Create a simple counter that counts the number of times a button is clicked on a web page. Declare a variable to store the count.
+
+Scenario 5: Mathematical Constants
+
+Declare variables for common mathematical constants like pi and e. These constants should not be modified.
+
+Submission Guidelines:
+
+Ensure that your JavaScript code is correctly organized and commented.
+
+Zip your assignment1.js file along with any necessary documentation if needed.
+
+Submit the zip file through the course assignment submission portal.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Proper use of var, let, and const based on the scope and use case of variables.
+
+Clarity of code with well-written comments explaining the choice of variable declaration keyword.
+
+Correct organization and adherence to best practices in JavaScript coding.
+
+Overall correctness and completeness of the assignment.

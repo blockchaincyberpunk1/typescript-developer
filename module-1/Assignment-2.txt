@@ -1,0 +1,52 @@
+Basic JavaScript Functions
+Objective: To practice writing basic functions in JavaScript.
+
+Task: In this assignment, you will be tasked with writing JavaScript functions to solve a set of simple problems. Properly defining functions is fundamental to programming, and this assignment will help you hone your skills in this area. You should also provide examples of how to use these functions in your code.
+
+Instructions:
+
+Create a JavaScript file named assignment2.js for your solutions.
+
+In assignment2.js, define JavaScript functions to solve the following problems:
+
+a. Problem 1: Sum of Two Numbers
+
+Write a function named sum that takes two parameters (numbers) and returns their sum.
+
+b. Problem 2: Factorial of a Number
+
+Write a function named factorial that takes a positive integer as a parameter and returns its factorial. The factorial of a number n is the product of all positive integers less than or equal to n.
+
+c. Problem 3: Find the Largest Number
+
+Write a function named findLargest that takes an array of numbers as a parameter and returns the largest number in the array.
+
+d. Problem 4: Reverse a String
+
+Write a function named reverseString that takes a string as a parameter and returns the reversed string.
+
+After defining each function, provide examples of how to use these functions in your code. Test your functions with different inputs to ensure they work correctly.
+
+Ensure that your code is well-organized, follows best practices, and includes comments where necessary.
+
+Submission Guidelines:
+
+Ensure that your JavaScript code is correctly organized and commented.
+
+Zip your assignment2.js file along with any necessary documentation if needed.
+
+Submit the zip file through the course assignment submission portal.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness of the function implementations to solve the specified problems.
+
+Clarity of code with well-written comments explaining how each function works.
+
+Proper organization of code and adherence to best practices in JavaScript coding.
+
+Accuracy of the examples provided for each function, demonstrating its usage.
+
+Overall correctness and completeness of the assignment.

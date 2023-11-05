@@ -1,0 +1,109 @@
+Integrating TypeScript with Build Tools
+Objective: To integrate TypeScript into a build process using build tools like Webpack.
+
+Task: In this assignment, you will set up a simple web application project that includes HTML, TypeScript files, and a webpack.config.js file. Your task is to configure Webpack to transpile TypeScript code and bundle it into a single JavaScript file. You should then submit your project files and demonstrate that the application runs correctly.
+
+Instructions:
+
+Part 1: Project Setup
+
+Create a new project directory named typescript-webpack-project.
+
+Inside the project directory, create an index.html file with the following content:
+
+html
+Copy code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TypeScript Webpack App</title>
+</head>
+<body>
+    <h1>Hello TypeScript!</h1>
+    <script src="dist/main.js"></script>
+</body>
+</html>
+Create a src directory within the project directory to store your TypeScript files.
+
+Part 2: TypeScript Setup
+
+Inside the src directory, create a TypeScript file named app.ts with the following content:
+
+typescript
+Copy code
+function greet(name: string): string {
+    return `Hello, ${name}!`;
+}
+
+const message: string = greet("TypeScript Developer");
+console.log(message);
+Part 3: Webpack Configuration
+
+In the project directory, create a webpack.config.js file with the following configuration:
+
+javascript
+Copy code
+const path = require("path");
+
+module.exports = {
+    entry: "./src/app.ts",
+    output: {
+        filename: "main.js",
+        path: path.resolve(__dirname, "dist"),
+    },
+    resolve: {
+        extensions: [".ts", ".js"],
+    },
+    module: {
+        rules: [
+            {
+                test: /\.ts$/,
+                use: "ts-loader",
+                exclude: /node_modules/,
+            },
+        ],
+    },
+};
+Part 4: Install Dependencies
+
+Open the integrated terminal within your code editor.
+
+Navigate to your project directory (e.g., cd typescript-webpack-project).
+
+Install the necessary dependencies (Webpack and TypeScript loader) using npm:
+
+bash
+Copy code
+npm install webpack webpack-cli ts-loader typescript --save-dev
+Part 5: Build and Run the Application
+
+Build the application using Webpack:
+
+bash
+Copy code
+npx webpack
+This command should generate a dist/main.js file.
+
+Open the index.html file in a web browser or serve it using a local server (e.g., npx http-server). Ensure that the TypeScript code is transpiled and executed correctly.
+
+Part 6: Submission
+
+Create a zip file containing the entire project directory, including the index.html, src, webpack.config.js, and dist directories.
+
+Submit the zip file through the course assignment submission portal.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful setup of the project with HTML, TypeScript files, and a webpack.config.js file.
+
+Proper configuration of Webpack to transpile TypeScript code and bundle it into a single JavaScript file.
+
+Demonstration that the application runs correctly in a web browser or local server.
+
+Submission of the complete project directory in the zip file.
+
+Adherence to the assignment instructions and completion of all required steps.

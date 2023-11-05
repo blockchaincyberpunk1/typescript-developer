@@ -1,0 +1,111 @@
+Setting Up a TypeScript Environment
+Objective: To set up a TypeScript development environment and configure the TypeScript compiler.
+
+Task: In this assignment, you will learn how to set up a TypeScript development environment from scratch. Your task is to follow step-by-step instructions to install Node.js, TypeScript, and a code editor (e.g., Visual Studio Code). You will then create a simple TypeScript file, compile it to JavaScript using the TypeScript compiler, and provide a screenshot of your code editor showing the compiled JavaScript.
+
+Instructions:
+
+Part 1: Environment Setup
+
+Install Node.js:
+
+a. Visit the official Node.js website (https://nodejs.org/).
+
+b. Download the LTS (Long Term Support) version suitable for your operating system (e.g., Windows, macOS, Linux).
+
+c. Run the installer and follow the installation instructions.
+
+d. Verify the installation by opening a terminal (command prompt or terminal emulator) and running the following commands:
+
+bash
+Copy code
+node -v
+npm -v
+These commands should display the installed Node.js and npm (Node Package Manager) versions.
+
+Install a Code Editor:
+
+a. Download and install a code editor of your choice. We recommend Visual Studio Code (VS Code) as it has excellent TypeScript support.
+
+b. Visit the Visual Studio Code website (https://code.visualstudio.com/).
+
+c. Download the installer for your operating system and follow the installation instructions.
+
+Install TypeScript:
+
+a. Open your code editor (e.g., VS Code).
+
+b. Open the integrated terminal within your code editor.
+
+c. Run the following command to install TypeScript globally:
+
+bash
+Copy code
+npm install -g typescript
+d. Verify the installation by running:
+
+bash
+Copy code
+tsc -v
+This command should display the installed TypeScript version.
+
+Part 2: Creating and Compiling a TypeScript File
+
+Create a TypeScript File:
+
+a. Create a new folder for your TypeScript project (e.g., typescript-project).
+
+b. Inside the project folder, create a new TypeScript file named main.ts.
+
+Write TypeScript Code:
+
+a. Open main.ts in your code editor.
+
+b. Write a simple TypeScript code snippet, for example:
+
+typescript
+Copy code
+function greet(name: string) {
+    return `Hello, ${name}!`;
+}
+
+const message = greet("TypeScript Developer");
+console.log(message);
+Compile TypeScript to JavaScript:
+
+a. In the integrated terminal, navigate to your project folder (e.g., cd typescript-project).
+
+b. Run the TypeScript compiler to transpile your TypeScript code into JavaScript:
+
+bash
+Copy code
+tsc main.ts
+c. This will generate a main.js file in the same folder.
+
+Part 3: Submission
+
+Take a Screenshot:
+
+a. Open your code editor and display both the TypeScript main.ts file and the compiled JavaScript main.js file side by side.
+
+b. Take a screenshot of your code editor with both files visible.
+
+Submit Your Assignment:
+
+a. Save the screenshot as a file (e.g., typescript_environment.png).
+
+b. Zip the screenshot file along with any additional files if needed.
+
+c. Submit the zip file through the course assignment submission portal.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful setup of a TypeScript development environment with Node.js, TypeScript, and a code editor.
+
+Proper compilation of the TypeScript code to JavaScript.
+
+Accuracy of the provided screenshot, which should show both the TypeScript and compiled JavaScript files in your code editor.
+
+Adherence to the assignment instructions and completion of all required steps.

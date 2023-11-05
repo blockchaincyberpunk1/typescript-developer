@@ -1,0 +1,70 @@
+Task Manager Application with TypeScript
+Objective: To reinforce TypeScript skills by building a practical task manager application.
+
+Task: In this assignment, you will instruct students to develop a task manager application using TypeScript for the front-end logic. The app should allow users to create, edit, and delete tasks, mark tasks as completed, and organize them into categories. Students should use local storage to persist data. The project should include TypeScript code, HTML/CSS files, and a report describing the project's features and functionalities.
+
+Instructions:
+
+Part 1: Project Description
+
+Scenario:
+
+You are tasked with developing a task manager application using TypeScript. The application should serve as a practical example to demonstrate your TypeScript skills in front-end development.
+
+Your Task:
+
+Your task is to create a task manager application that allows users to manage their tasks efficiently. The application should have the following features:
+
+Users can create new tasks by providing a task name and optional description.
+Users can mark tasks as completed or incomplete.
+Users can edit existing tasks.
+Users can delete tasks.
+Tasks can be organized into categories (e.g., work, personal, shopping).
+The application should use local storage to persist task data.
+Part 2: Project Implementation
+
+Use TypeScript to implement the task manager application:
+
+Create a user-friendly and responsive user interface using HTML and CSS.
+
+Implement TypeScript code for the front-end logic, including task creation, editing, deletion, completion status, and organization by categories.
+
+Utilize local storage to persist task data so that users can access their tasks even after closing the application.
+
+Ensure that the application follows best practices for front-end development, including code organization, modularity, and maintainability.
+
+Ensure that your TypeScript code is well-structured, readable, and follows best practices for front-end development.
+
+Part 3: Report
+
+Create a report that describes the features and functionalities of your task manager application:
+
+Explain the purpose and functionality of your application.
+
+Describe how TypeScript was used in your project, including its role in handling task-related operations.
+
+Discuss any challenges you encountered during development and how you addressed them.
+
+Part 4: Submission
+
+Submit the following:
+
+a. The TypeScript code containing your implementation of the task manager application.
+
+b. The complete project files, including HTML and CSS files, necessary for running the application.
+
+c. The report, which should be in a document format (e.g., PDF, Word), detailing your application's features, challenges, and lessons learned.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful implementation of the task manager application, including user interface design, task management features, and local storage integration.
+
+Effective use of TypeScript for front-end development, including proper organization, modularity, and code quality.
+
+Clarity and completeness of the report, including explanations of the application's purpose, TypeScript's role, challenges faced, and lessons learned.
+
+Proper organization and structure of the TypeScript code, HTML, and CSS files.
+
+Overall correctness and completeness of the assignment.

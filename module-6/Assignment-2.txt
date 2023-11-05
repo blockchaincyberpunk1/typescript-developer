@@ -1,0 +1,70 @@
+Unit Testing of a Real-World Application
+Objective: To apply unit testing concepts to a more complex TypeScript application.
+
+Task: In this assignment, you will provide students with a TypeScript application, such as a small web app or utility, that requires testing. Their task is to write unit tests for critical components or functions within the application using a testing framework of their choice. Students should focus on testing the application's core functionality and handling edge cases. They should submit the test code and a report that details their testing strategy and results.
+
+Instructions:
+
+Part 1: Real-World TypeScript Application
+
+Scenario:
+
+You are given a real-world TypeScript application that requires testing to ensure its reliability and correctness. This application may consist of multiple components, classes, or functions that interact with each other.
+
+Your Task:
+
+Familiarize yourself with the provided TypeScript application, including its core functionality and components. Understand the purpose and expected behavior of the application.
+
+Part 2: Choose a Testing Framework
+
+Choose a testing framework for this assignment. You can use the same framework chosen in Assignment 1 or select a different one that suits the complexity of the application.
+
+Configure the testing environment to work with TypeScript, including installing any necessary TypeScript dependencies and configuration files.
+
+Set up a directory structure for your tests, separating them from the application code.
+
+Part 3: Write Unit Tests
+
+Identify critical components, classes, or functions within the TypeScript application that need to be tested.
+
+Create test files for each component, class, or function you want to test.
+
+Write unit tests for these components, focusing on the core functionality and critical use cases.
+
+Ensure that your tests cover various scenarios, including edge cases and potential error scenarios.
+
+Part 4: Test Report
+
+Create a report that documents your testing strategy and results.
+
+Describe the testing framework you chose and explain why it was suitable for testing the given application.
+
+Provide an overview of the test cases you wrote, the components/functions they cover, and any challenges you encountered during the testing process.
+
+Present the results of your tests, including any failures and how you resolved them.
+
+Part 5: Submission
+
+Submit the following:
+
+a. The test code containing unit tests for the critical components, classes, or functions within the provided TypeScript application.
+
+b. The configuration files and setup related to your testing environment.
+
+c. The test report, which should be in a document format (e.g., PDF, Word) explaining your testing process and outcomes.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct choice and setup of a TypeScript testing framework suitable for testing the provided application.
+
+Proper configuration of the testing environment for TypeScript.
+
+Implementation of comprehensive unit tests that cover various scenarios, including edge cases and error scenarios.
+
+Clarity and completeness of the test report, including explanations of the testing framework choice, test cases, challenges faced, and test results.
+
+Proper organization and structure of the test code and configuration files.
+
+Overall correctness and completeness of the assignment.

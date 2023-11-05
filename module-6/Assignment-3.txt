@@ -1,0 +1,61 @@
+Debugging TypeScript with Browser Dev Tools
+Objective: To familiarize students with debugging TypeScript applications using browser developer tools.
+
+Task: In this assignment, you will share a TypeScript application with a known bug or issue. Students are required to use browser developer tools to inspect and debug the code to identify the problem. They should provide a step-by-step debugging process, including screenshots or descriptions of their findings. Additionally, students should submit the corrected TypeScript code with the issue fixed.
+
+Instructions:
+
+Part 1: Debugging Scenario
+
+Scenario:
+
+You are given a TypeScript application that contains a known bug or issue that is affecting its functionality. Your task is to debug the application using browser developer tools to identify and fix the problem.
+
+Your Task:
+
+Familiarize yourself with the provided TypeScript application, including its functionality and any apparent issues or bugs.
+
+Part 2: Debugging with Browser Developer Tools
+
+Use browser developer tools (e.g., Chrome DevTools, Firefox DevTools) to debug the TypeScript application.
+
+Launch the application in a web browser.
+
+Open the browser developer tools and navigate to the "Console" and "Sources" tabs or equivalent options.
+
+Inspect and debug the code to identify the cause of the issue. Use breakpoints, console logs, and other debugging features as needed.
+
+Provide a detailed step-by-step debugging process:
+
+Describe the steps you took to identify the problem, including any specific actions you performed in the developer tools.
+
+Include screenshots or descriptions of the code snippets you examined during debugging.
+
+Explain how you determined the root cause of the issue.
+
+Part 3: Correct the Issue
+
+Once you have identified the problem, fix the bug or issue within the TypeScript code.
+
+Ensure that your corrections are logically sound and address the root cause of the problem.
+Part 4: Submission
+
+Submit the following:
+
+a. A detailed report of your debugging process, including step-by-step instructions and any screenshots or descriptions of code snippets you examined during debugging.
+
+b. The corrected TypeScript code with the issue fixed.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct identification of the bug or issue within the TypeScript application.
+
+Effective use of browser developer tools for debugging, including the use of breakpoints, console logs, and code inspection.
+
+Clarity and completeness of the debugging process report, including step-by-step instructions and descriptions of debugging actions.
+
+Proper correction of the issue within the TypeScript code, ensuring that the root cause of the problem is addressed.
+
+Overall correctness and completeness of the assignment.

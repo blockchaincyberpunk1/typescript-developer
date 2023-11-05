@@ -1,0 +1,68 @@
+Custom Decorators
+Objective: To understand and implement custom decorators to add metadata to classes and methods.
+
+Task: In this assignment, you will be presented with a scenario where you need to create custom decorators for a TypeScript class. Specifically, you will create a @log decorator that logs method calls. Your task is to implement this decorator and apply it to class methods, demonstrating how it adds metadata to the methods. After implementing the decorator and applying it to methods, you should submit TypeScript code with examples of class and decorator usage.
+
+Instructions:
+
+Part 1: Custom Decorator Implementation
+
+Scenario:
+
+You are building a debugging utility for a TypeScript application. You want to create a custom decorator called @log that logs method calls, including the method name, arguments, and return value.
+
+Your Task:
+
+Implement the @log decorator using TypeScript decorators.
+
+The decorator should log the following information to the console before and after a method is called:
+
+Method name.
+Method arguments.
+Return value.
+Apply the @log decorator to class methods to add the logging functionality.
+
+Part 2: TypeScript Class
+
+Create a TypeScript class named Calculator.
+
+Inside the Calculator class, implement two methods:
+
+add(a: number, b: number): number: Adds two numbers and returns the result.
+subtract(a: number, b: number): number: Subtracts the second number from the first and returns the result.
+Apply the @log decorator to both of these methods.
+
+Part 3: Test the Decorator
+
+Create a TypeScript file named testDecorator.ts.
+
+In testDecorator.ts, create an instance of the Calculator class and call its methods. The @log decorator should log method calls, arguments, and return values.
+
+Create an instance of Calculator.
+Call the add method with some numbers.
+Call the subtract method with different numbers.
+Part 4: Submission
+
+Submit three files:
+
+a. logDecorator.ts: Contains the implementation of the @log decorator.
+
+b. Calculator.ts: Contains the implementation of the Calculator class with the @log decorator applied to its methods.
+
+c. testDecorator.ts: Contains your test cases and usage examples of the @log decorator applied to the Calculator class.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of the @log decorator using TypeScript decorators.
+
+Proper application of the @log decorator to class methods to add logging functionality.
+
+Accuracy and completeness of test cases in testDecorator.ts that demonstrate the usage of the @log decorator.
+
+Clarity and completeness of comments and documentation.
+
+Proper organization and structure of TypeScript code.
+
+Overall correctness and completeness of the assignment.

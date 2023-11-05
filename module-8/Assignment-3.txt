@@ -1,0 +1,69 @@
+Personal Portfolio Website with TypeScript
+Objective: To create a personal portfolio website using TypeScript.
+
+Task: In this assignment, students will design and develop their personal portfolio websites using TypeScript for the front-end. They can include sections for their resume, projects, contact information, and more. The website should be responsive and visually appealing. The assignment should include TypeScript code, HTML/CSS files, and a report explaining their design choices and showcasing their portfolio.
+
+Instructions:
+
+Part 1: Project Description
+
+Scenario:
+
+You are tasked with creating a personal portfolio website using TypeScript. The website should serve as a platform to showcase your skills, projects, and achievements to potential employers or clients.
+
+Your Task:
+
+Your task is to design and develop a personal portfolio website using TypeScript for the front-end. The website should include the following key features:
+
+An "About Me" section with a brief introduction.
+A "Resume" section detailing your skills, education, work experience, and achievements.
+A "Projects" section showcasing your work with descriptions and links.
+A "Contact" section with your contact information and a contact form.
+A visually appealing and responsive design that works well on various devices and screen sizes.
+Part 2: Project Implementation
+
+Use TypeScript to implement your personal portfolio website:
+
+Create a user-friendly and responsive user interface using HTML and CSS.
+
+Implement TypeScript code to handle interactions and dynamic content, such as displaying projects and processing contact form submissions.
+
+Ensure that the website is visually appealing and represents your personal brand effectively.
+
+Ensure that your TypeScript code is well-structured, readable, and follows best practices for front-end development.
+
+Part 3: Report
+
+Create a report that explains your design choices and showcases your portfolio website:
+
+Describe the purpose and goals of your personal portfolio website.
+
+Explain how TypeScript was used in your project, including its role in handling interactions and dynamic content.
+
+Discuss the design choices you made, including color schemes, typography, and layout decisions.
+
+Provide screenshots or links to your website to showcase your portfolio.
+
+Part 4: Submission
+
+Submit the following:
+
+a. The TypeScript code containing your implementation of the personal portfolio website.
+
+b. The complete project files, including HTML and CSS files, necessary for running the website.
+
+c. The report, which should be in a document format (e.g., PDF, Word), explaining your design choices and showcasing your portfolio.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful implementation of the personal portfolio website, including a user-friendly interface, responsive design, and dynamic content.
+
+Effective use of TypeScript for front-end development, including proper organization, modularity, and code quality.
+
+Clarity and completeness of the report, including explanations of the website's purpose, TypeScript's role, design choices, and portfolio showcase.
+
+Proper organization and structure of the TypeScript code, HTML, and CSS files.
+
+Overall correctness and completeness of the assignment.
